@@ -1,4 +1,8 @@
 -
+  name: amex
+  label: American Express
+  group: credit_cards
+-
   name: mastercard
   label: Mastercard
   group: credit_cards
